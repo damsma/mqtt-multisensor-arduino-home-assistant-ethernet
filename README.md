@@ -1,7 +1,7 @@
 # MQTT Multisensor for Home Assistant
 Create your own mqtt multisensor for HA just by configuring the values in the header file.
 
-This code runs on my POE powered multi-sensors in my house. Each room has one header file, where the number and occurance of sensors are configured.
+This code runs on my POE powered multi-sensors in my house. Each room has one header file, where the number and occurrence of sensors are configured.
 
 ![grafik](https://github.com/damsma/mqtt-multisensor-arduino-home-assistant-ethernet/assets/45398732/cbd14dd6-9130-4490-9ce1-1c4f8fab6b70)
 
