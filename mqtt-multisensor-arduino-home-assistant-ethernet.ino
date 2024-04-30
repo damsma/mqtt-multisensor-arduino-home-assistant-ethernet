@@ -1,7 +1,7 @@
 #include "settings.h"
 
 #include "room_test1.h"
-#include "room_test2.h"
+//#include "room_test2.h"
 
 IPAddress ip(MYIPADDR);
 IPAddress dns(MYDNS);
